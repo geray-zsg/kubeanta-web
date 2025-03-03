@@ -98,3 +98,21 @@ Modern browsers and Internet Explorer 10+.
 [MIT](https://github.com/PanJiaChen/vue-admin-template/blob/master/LICENSE) license.
 
 Copyright (c) 2017-present PanJiaChen
+
+
+
+# 提交到github
+```
+…or create a new repository on the command line
+echo "# kubeanta-web" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/geray-zsg/kubeanta-web.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/geray-zsg/kubeanta-web.git
+git branch -M main
+git push -u origin main
+```
